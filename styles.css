@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .countdown {
+    text-align: center;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .countdown-item {
+    margin-bottom: 10px;
+  }
+  
+  .countdown-item label {
+    font-weight: bold;
+  }
+  
+  .countdown-item button {
+    margin-left: 10px;
+  }
+  
+  #countdown-list {
+    margin-top: 20px;
+  }
+  
